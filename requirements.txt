@@ -1,0 +1,10 @@
+keras
+tensorflow
+numpy
+pandas
+seaborn
+nltk
+scikit-learn
+matplotlib
+mlcm
+gensim
