@@ -1,4 +1,5 @@
 Sentiment Analysis for Business Improvement
+
 This repository contains code and resources for sentiment analysis aimed at understanding customer and public feedback to improve business quality. The project employs various methodologies such as data preprocessing, embedding techniques, algorithm selection, hyperparameter tuning, test/train splitting, and accuracy evaluation to categorize sentiments and enhance the business model.
 
 Overview
